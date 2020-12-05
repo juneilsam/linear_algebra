@@ -58,11 +58,11 @@ comments: true
 
 \- 영벡터
 
-    : AA, BB와 같이 시점과 종점이 일치하는 벡터
+    - AA, BB와 같이 시점과 종점이 일치하는 벡터
 
-    : 기호와 함께 0으로 표시
+    - 기호와 함께 0으로 표시
    
-    : 임의의 방향(고등학교에서는 방향을 생각하지 않는다고 한다)
+    - 임의의 방향(고등학교에서는 방향을 생각하지 않는다고 한다)
 </br>
 ※ 평면벡터 : 평면에서의 벡터
 </br>
@@ -95,9 +95,9 @@ comments: true
 
 \- 벡터의 덧셈에 대한 연산법칙
 
-    : 교환법칙
+    - 교환법칙
     
-    : 결합법칙
+    - 결합법칙
 </br>
 </br>
 2) 벡터의 뺄셈
@@ -123,9 +123,9 @@ comments: true
 
 \- 벡터의 실수배에 대한 연산법칙
 
-    : 결합법칙
+    - 결합법칙
     
-    : 분배법칙
+    - 분배법칙
 <br/>    
 <br/>    
 (7) 벡터의 평행
@@ -141,6 +141,7 @@ comments: true
 <br/>
 <br/>
 <br/>
+
 ### 2.평면벡터의 성분과 내적
 
 (1) 위치벡터
@@ -167,7 +168,7 @@ comments: true
 
 (3) 두 평면벡터가 서로 같을 조건
 
-\- 두 점 a = (a₁, a₂), b = (b₁, b₂)에 대하여, 각 위치벡터가 서로 같은 벡터가 되기 위해서는 그 종점의 좌표가 같아야 한다.
+\- 두 점 A = (a₁, a₂), B = (b₁, b₂)에 대하여, 각 위치벡터(a, b)가 서로 같은 벡터가 되기 위해서는 그 종점의 좌표가 같아야 한다.
 
     a = b ⇔ a₁ = b₁, a₂ = b₂
     
@@ -183,4 +184,49 @@ comments: true
 
 (5) 평면벡터의 성분에 의한 연산
 
-\-
+\- 두 평면벡터 a = (a₁, a₂), b = (b₁, b₂)
+
+    1) a + b = (a₁ + b₁, a₂ + b₂)
+    
+    2) a - b = (a₁ - b₁, a₂ - b₂)
+
+    3) ka = (ka₁, ka₂)
+    
+<br/>
+
+(6) 평면벡터의 성분과 크기
+
+\- 두 점 A(a₁, a₂), B(b₁, b₂)
+
+   1) <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> = (b₁ - a₁, b₂ - a₂)
+    
+   2) <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{AB}&space;\right&space;|" title="\left | \overrightarrow{AB} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{(b_{1}&space;-&space;a_{1})^{2}&space;&plus;&space;(b_{2}&space;-&space;a_{2})^{2}}" title="\sqrt{(b_{1} - a_{1})^{2} + (b_{2} - a_{2})^{2}}" />
+   
+   
+(7) 평면벡터의 내적
+
+1) 평면벡터의 내적
+
+\- 벡터 a = (a₁, a₂), b = (b₁, b₂)
+
+: a ˙ b = a₁b₁ + a₂b₂
+
+
+\- 평면벡터의 내적의 성질
+
+    - 교환법칙
+    
+    - 분배법칙
+    
+    - 결합법칙
+    
+    
+\- 평면벡터의 수직 조건과 평행 조건
+
+
+    : 영벡터가 아닌 두 벡터 a, b에 대하여
+    
+    - 수직 조건 : a ˙ b = 0
+    
+    - 평행 조건 : a ˙ b = ± |a||b|
+   
