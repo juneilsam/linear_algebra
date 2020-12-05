@@ -23,6 +23,17 @@ comments: true
 
 ---
 
+## 공간벡터
+
+### 1. 공간벡터의 성분
+
+### 2. 공간벡터의 내적
+
+### 3. 공간에서의 직선의 방정식
+
+### 4. 평면의 방정식
+
+### 5. 점과 평면 사이의 거리
 
 
 ---
@@ -396,3 +407,54 @@ comments: true
 \- 원점 O와 점 P(x₁, y₁, z₁) 사이의 거리는
 
    : <img src="https://latex.codecogs.com/svg.latex?\overline{OP}&space;=&space;\sqrt{&space;{x_1}^{2}&space;&plus;&space;{y_1}^{2}&space;&plus;&space;{z_1}^{2}}" title="\overline{OP} = \sqrt{ {x_1}^{2} + {y_1}^{2} + {z_1}^{2}}" />
+
+<br/>
+<br/>
+<br/>
+
+---
+
+## 공간벡터
+
+### 1.공간벡터의 성분
+
+(1) 공간벡터
+
+: 공간에서의 벡터
+
+<br/>
+   
+(2) 공간벡터의 성분
+
+: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}&space;=&space;\overrightarrow{OA}" title="\overrightarrow{a} = \overrightarrow{OA}" />는 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃)과 같이 나타낸다.
+   
+: a₁, a₂, a₃가 벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />의 성분.
+   
+    a₁ = x성분    a₂ = y성분    a₃ = z성분
+    
+
+※ 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃), <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (b₁, b₂, b₃)에 대하여
+
+  - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> ⇔ a₁ = b₁, a₂ = b₂, a₃ = b₃
+  
+  - <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{a}&space;\right&space;|" title="\left | \overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{{a_{1}}^{2}&space;&plus;&space;{a_{2}}^{2}&space;&plus;&space;{a_{3}}^{2}}" title="\sqrt{{a_{1}}^{2} + {a_{2}}^{2} + {a_{3}}^{2}}" />
+  
+  <br/>
+  
+(3) 공간벡터의 성분에 의한 연산
+  
+\- 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃), <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (b₁, b₂, b₃)에 대하여
+
+- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (a₁ + b₁, a₂ + b₂, a₃ + b₃)
+
+- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (a₁ - b₁, a₂ - b₂, a₃ - b₃)
+
+- k<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (ka₁, ka₂, ka₃) (단, k는 실수)
+
+
+※ 좌표공간의 두 점 A(a₁, a₂, a₃), B(b₁, b₂, b₃)에 대하여
+
+  - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> = (b₁ - a₁, b₂ - a₂ , b₃ - a₃)
+  
+  - <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{AB}&space;\right&space;|" title="\left | \overrightarrow{AB} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{({b_{1}&space;-&space;a_{1}})^{2}&space;&plus;&space;({b_{2}&space;-&space;a_{2}})^{2}&space;&plus;&space;({b_{3}&space;-&space;a_{3}})^{2}}" title="\sqrt{({b_{1} - a_{1}})^{2} + ({b_{2} - a_{2}})^{2} + ({b_{3} - a_{3}})^{2}}" />
+  
