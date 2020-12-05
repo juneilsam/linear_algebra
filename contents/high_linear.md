@@ -23,7 +23,7 @@ comments: true
 
 ---
 
-## [공간벡터](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#공간벡터)
+## [공간벡터](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#공간벡터-1)
 
 ### [1.공간벡터의 성분](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#1공간벡터의-성분-1)
 
