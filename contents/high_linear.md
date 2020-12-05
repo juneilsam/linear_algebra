@@ -11,7 +11,7 @@ comments: true
 
 ### [1.벡터의 연산](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#1%EB%B2%A1%ED%84%B0%EC%9D%98-%EC%97%B0%EC%82%B0-1)
 
-### 2.평면벡터의 성분과 내적(https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#2.평면벡터의-성분과-내적-1)
+### [2.평면벡터의 성분과 내적](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#2%ED%8F%89%EB%A9%B4%EB%B2%A1%ED%84%B0%EC%9D%98-%EC%84%B1%EB%B6%84%EA%B3%BC-%EB%82%B4%EC%A0%81)
 
 ---
 
