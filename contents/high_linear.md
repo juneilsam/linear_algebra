@@ -181,7 +181,7 @@ comments: true
 
 \- 벡터a = (a₁, a₂)일 때, 
 
-: <img src="https://latex.codecogs.com/svg.latex?\left&space;|\overrightarrow{a}&space;\right&space;|" title="\left |\overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{a_{1}^{2}&space;&plus;&space;a_{2}^{2}}" title="\sqrt{a_{1}^{2} + a_{2}^{2}}" />
+  : <img src="https://latex.codecogs.com/svg.latex?\left&space;|\overrightarrow{a}&space;\right&space;|" title="\left |\overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{{a_1}^{2}&space;&plus;&space;{a_2}^{2}}" title="\sqrt{{a_1}^{2} + {a_2}^{2}}" />
 
 <br/>
 
@@ -211,7 +211,7 @@ comments: true
 
 \- 벡터 a = (a₁, a₂), b = (b₁, b₂)
 
-: a ˙ b = a₁b₁ + a₂b₂
+  : a ˙ b = a₁b₁ + a₂b₂
 
 
 \- 평면벡터의 내적의 성질
@@ -347,11 +347,52 @@ comments: true
   
 \- 직선과 평면의 수직
 
-  : 직선이 평면 위의 모든 직선과 수직일 때, 그 직선과 평면은 수직이라고 한다.
+   : 직선이 평면 위의 모든 직선과 수직일 때, 그 직선과 평면은 수직이라고 한다.
   
 <br/>
 <br/>
 
 (2) 삼수선 정리
 
+    평면 α 위에 있지 않은 점 P, α 위의 점 O, 점 O를 지나지 않는 α 위의 직선 l, 직선 l의 점 H
   
+\- <img src="https://latex.codecogs.com/svg.latex?\overline{PO}" title="\overline{PO}" /> ⊥ α,  <img src="https://latex.codecogs.com/svg.latex?\overline{OH}" title="\overline{OH}" /> ⊥ l이면 <img src="https://latex.codecogs.com/svg.latex?\overline{PH}" title="\overline{PH}" /> ⊥ l
+
+\- <img src="https://latex.codecogs.com/svg.latex?\overline{PO}" title="\overline{PO}" /> ⊥ α,  <img src="https://latex.codecogs.com/svg.latex?\overline{PH}" title="\overline{PH}" /> ⊥ l이면 <img src="https://latex.codecogs.com/svg.latex?\overline{OH}" title="\overline{OH}" /> ⊥ l
+
+\- <img src="https://latex.codecogs.com/svg.latex?\overline{PH}" title="\overline{PH}" /> ⊥ l,  <img src="https://latex.codecogs.com/svg.latex?\overline{OH}" title="\overline{OH}" /> ⊥ l,  <img src="https://latex.codecogs.com/svg.latex?\overline{PO}" title="\overline{PO}" /> ⊥ <img src="https://latex.codecogs.com/svg.latex?\overline{OH}" title="\overline{OH}" />이면  <img src="https://latex.codecogs.com/svg.latex?\overline{PO}" title="\overline{PO}" /> ⊥ α
+
+<br/>
+
+(3) 정사영
+: 평면 위에 있지 않은 한 점에서 평면에 내린 수선의 발
+
+<br/>
+
+### 2.공간좌표
+
+
+(1) 공간에서 점의 좌표
+
+\- 좌표축 : 공간의 한 점에서 서로 직교하는 세 수직선을 그었을 때, 각각의 수직선(x축, y축, z축)
+
+\- 좌표평면 : 좌표축 2쌍에 의하여 결정되는 평면(xy평면, yz평면, zx평면)
+
+\- 공간좌표 : 공간에 있는 임의의 한 점에 대하여 각 좌표평면이 나머지 좌표축과 만나는 점으로 이루어진 세 실수의 순서쌍 (a, b, c)
+
+\- 좌표공간 : 공간에 있는 임의의 한 점의 좌표가 주어진 공간 (P(a, b, c))
+
+※ 좌표평면은 나머지 한 좌표축 = 0에서 수직으로 만나므로, 해당 평면 위의 모든 점의 나머지 한 좌표축의 좌표는 0이다.
+
+<br/>
+
+(2) 좌표공간에서 두 점 사이의 거리
+
+\- 좌표공간의 두 점 P(x₁, y₁, z₁)과 Q(x₂, y₂, z₂) 사이의 거리는
+
+   : <img src="https://latex.codecogs.com/svg.latex?\overline{PQ}&space;=&space;\sqrt{\left&space;(&space;x_{2}&space;-&space;x_{1}&space;\right&space;)^{2}&space;&plus;&space;\left&space;(y_{2}&space;-&space;y_{1}&space;\right&space;)^{2}&space;&plus;&space;\left&space;(z_{2}&space;-&space;z_{1}&space;\right&space;)^{2}}" title="\overline{PQ} = \sqrt{\left ( {x_2} - {x_1} \right )^{2} + \left ({y_2} - {y_1} \right )^{2} + \left ({z_2} - {z_1} \right )^{2}}" />
+
+
+\- 원점 O와 점 P(x₁, y₁, z₁) 사이의 거리는
+
+   : <img src="https://latex.codecogs.com/svg.latex?\overline{OP}&space;=&space;\sqrt{&space;{x_1}^{2}&space;&plus;&space;{y_1}^{2}&space;&plus;&space;{z_1}^{2}}" title="\overline{OP} = \sqrt{ {x_1}^{2} + {y_1}^{2} + {z_1}^{2}}" />
