@@ -1,6 +1,6 @@
 # munsong_math
 
-[문과가 공부한 수학](https://github.com/juneilsam/munsong_math/wiki)
+[문과가 공부한 수학](https://github.com/juneilsam/munsong_math/wiki/%EB%AC%B8%EA%B3%BC%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%88%98%ED%95%99)
 
 ---
 
@@ -24,4 +24,4 @@
 
 문괴s, be ambitious!
 
-[문과가 공부한 수학](https://github.com/juneilsam/munsong_math/wiki)
+[문과가 공부한 수학](https://github.com/juneilsam/munsong_math/wiki/%EB%AC%B8%EA%B3%BC%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%88%98%ED%95%99)
