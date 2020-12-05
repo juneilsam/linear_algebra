@@ -42,7 +42,7 @@ comments: true
     - 점 A : 벡터 AB의 시점
 
     - 점 B : 벡터 AB의 종점
-</br>
+
 </br>
 (3) 벡터의 크기
 
@@ -67,6 +67,7 @@ comments: true
 ※ 평면벡터 : 평면에서의 벡터
 </br>
 </br>
+</br>
 (4) 서로 같은 벡터
 
 \- 위치에 관계없이 크기와 방향이 같다면 모두 같은 벡터이다.
@@ -77,6 +78,7 @@ comments: true
 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\tiny \overrightarrow{AB}" /> = -<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BA}" title="\overrightarrow{BA}" />
 
 : <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{a}&space;\right&space;|" title="\left | \overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\small&space;\left&space;|&space;\overrightarrow{-a}&space;\right&space;|" title="\small \left | \overrightarrow{-a} \right |" />
+</br>
 </br>
 </br>
 (5)벡터의 덧셈과 뺄셈
@@ -94,7 +96,13 @@ comments: true
 \- 벡터의 덧셈에 대한 연산법칙
 
     : 교환법칙
+    
     : 결합법칙
 </br>
 </br>
 2) 벡터의 뺄셈
+</br>
+\- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + (-<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />)
+</br>
+</br>
+3) 벡터의 
