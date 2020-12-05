@@ -8,6 +8,7 @@ comments: true
 ---
 
 [수학홈](https://github.com/juneilsam/munsong_math/wiki/%EB%AC%B8%EA%B3%BC%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%88%98%ED%95%99)
+[선대홈](https://github.com/juneilsam/munsong_math/wiki/%EB%AC%B8%EA%B3%BC%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
 
 ---
 
