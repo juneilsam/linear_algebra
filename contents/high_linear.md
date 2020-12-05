@@ -491,6 +491,24 @@ comments: true
 
 (2) 직선의 방정식
 
-\- 점 A(x₁, y₁, z₁)을 지나고 방향벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{u}" title="\overrightarrow{u}" /> = (u₁, u₂, u₃)인 직선의 방정식
+\- 점 A(x₁, y₁, z₁)를 지나고 방향벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{u}" title="\overrightarrow{u}" /> = (u₁, u₂, u₃)인 직선의 방정식
 
   : <img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{y&space;-&space;y_{1}}{u_{2}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{x - x_{1}}{u_{1}} = \frac{y - y_{1}}{u_{2}} = \frac{z - z_{1}}{u_{3}}" /> (단, u₁u₂u₃ ≠ 0)
+  
+<br/>
+
+\- 점 A(x₁, y₁, z₁)를 지나고 좌표평면에 평행한 직선의 방정식은 다음과 같다. (단, u₁ ≠ 0 또는 u₂ ≠ 0 또는 u₃ ≠ 0)
+
+
+|xy평면에 평행(u₁, u₂, 0)|yz평면에 평행(0, u₂, u₃)|zx평면에 평행(u₁, 0, u₃)|
+|:----:|:----:|:----:|
+|<img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{y&space;-&space;y_{1}}{u_{2}}" title="\frac{x - x_{1}}{u_{1}} = \frac{y - y_{1}}{u_{2}}" />, z = z₁|<img src="https://latex.codecogs.com/svg.latex?\frac{y&space;-&space;y_{1}}{u_{2}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{y - y_{1}}{u_{2}} = \frac{z - z_{1}}{u_{3}}" />, x = x₁|<img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{x - x_{1}}{u_{1}} = \frac{z - z_{1}}{u_{3}}" />, y = y₁|
+
+<br/>
+
+\- 점 A(x₁, y₁, z₁)를 지나고 좌표축에 평행한 직선의 방정식은 다음과 같다. (단, u₁ ≠ 0 또는 u₂ ≠ 0 또는 u₃ ≠ 0)
+
+
+|x축에 평행(u₁, 0, 0)|y축에 평행(0, u₂, 0)|z축에 평행(0, 0, u₃)|
+|:----:|:----:|:----:|
+|y = y₁, z = z₁|x = x₁, z = z₁|x = x₁, y = y₁|
