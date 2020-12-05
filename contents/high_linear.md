@@ -27,33 +27,35 @@ comments: true
 
 ### 1.벡터의 연산
 (1) 벡터의 뜻
-</br>
+
 \- 다음 두 요소를 가지는 양
 
     - 크기
     - 방향
 </br>
-</br>
 (2) 벡터의 표시
-</br>
-- 점 A에서 점 B로 향하는 화살표를 사용하여 크기와 방향을 나타낸다.
-</br>
-- <a href="https://www.codecogs.com/eqnedit.php?latex=\overrightarrow{AB}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /></a> 또는 <a href="https://www.codecogs.com/eqnedit.php?latex=\overrightarrow{a}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /></a>
-</br>
-- 점 A : 벡터 AB의 시점
-</br>
-- 점 B : 벡터 AB의 종점
+
+\- 점 A에서 점 B로 향하는 화살표를 사용하여 크기와 방향을 나타낸다.
+
+\- <a href="https://www.codecogs.com/eqnedit.php?latex=\overrightarrow{AB}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /></a> 또는 <a href="https://www.codecogs.com/eqnedit.php?latex=\overrightarrow{a}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /></a>
+
+    - 점 A : 벡터 AB의 시점
+
+    - 점 B : 벡터 AB의 종점
 </br>
 </br>
 (3) 벡터의 크기
-</br>
+
+
 \- 선분 AB의 길이
-</br>
+
+
 \- <img src="https://latex.codecogs.com/svg.latex?\tiny&space;{\left&space;|\overrightarrow{AB}&space;\right&space;|}" title="\tiny {\left |\overrightarrow{AB} \right |}" /> 또는 <img src="https://latex.codecogs.com/svg.latex?{\left&space;|\overrightarrow{a}&space;\right&space;|}" title="{\left |\overrightarrow{a} \right |}" />
-</br>
+
 
 \- 단위 벡터 : 크기가 1인 벡터
-</br>
+
+
 \- 영벡터
 
     : AA, BB와 같이 시점과 종점이 일치하는 벡터
@@ -75,12 +77,24 @@ comments: true
 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\tiny \overrightarrow{AB}" /> = -<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BA}" title="\overrightarrow{BA}" />
 
 : <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{a}&space;\right&space;|" title="\left | \overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\small&space;\left&space;|&space;\overrightarrow{-a}&space;\right&space;|" title="\small \left | \overrightarrow{-a} \right |" />
-
-
+</br>
+</br>
 (5)벡터의 덧셈과 뺄셈
 
 1)벡터의 덧셈
 
-\- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}&space;=&space;\overrightarrow{AB},&space;\overrightarrow{b}&space;=&space;\overrightarrow{BC}" title="\overrightarrow{a} = \overrightarrow{AB}, \overrightarrow{b} = \overrightarrow{BC}" />
+\- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}&space;=&space;\overrightarrow{AB},&space;\overrightarrow{b}&space;=&space;\overrightarrow{BC}" title="\overrightarrow{a} = \overrightarrow{AB}, \overrightarrow{b} = \overrightarrow{BC}" />일 때,
 
-\: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}&space;&plus;&space;\overrightarrow{b}&space;=&space;\overrightarrow{AB}&space;&plus;&space;\overrightarrow{BC}&space;=&space;\overrightarrow{AC}" title="\overrightarrow{a} + \overrightarrow{b} = \overrightarrow{AB} + \overrightarrow{BC} = \overrightarrow{AC}" />
+\: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BC}" title="\overrightarrow{BC}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AC}" title="\overrightarrow{AC}" />
+
+\- 삼각형 법 : 벡터 1과 벡터 2의 종점과 시점을 일치시킨다(벡터 1의 시점과 벡터 2의 종점을 이은 벡터가 합).
+
+\- 평행사변형 법 : 벡터 1과 벡터 2의 시점을 일치시키고, 평행사변형을 만든다(시점으로부터 대각선에 위치한 벡터가 합).
+
+\- 벡터의 덧셈에 대한 연산법칙
+
+    : 교환법칙
+    : 결합법칙
+</br>
+</br>
+2) 벡터의 뺄셈
