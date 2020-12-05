@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-## 평면벡터
+## [평면벡터](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#%ED%8F%89%EB%A9%B4%EB%B2%A1%ED%84%B0-1)
 
 ### 1.벡터의 연산
 
