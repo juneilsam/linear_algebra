@@ -56,6 +56,7 @@ comments: true
     - 방향
     
 </br>
+
 (2) 벡터의 표시
 
 \- 점 A에서 점 B로 향하는 화살표를 사용하여 크기와 방향을 나타낸다.
@@ -67,6 +68,7 @@ comments: true
     - 점 B : 벡터 AB의 종점
 
 </br>
+
 (3) 벡터의 크기
 
 
@@ -86,11 +88,15 @@ comments: true
     - 기호와 함께 0으로 표시
    
     - 임의의 방향(고등학교에서는 방향을 생각하지 않는다고 한다)
+    
 </br>
+
 ※ 평면벡터 : 평면에서의 벡터
+
 </br>
 </br>
 </br>
+
 (4) 서로 같은 벡터
 
   \- 위치에 관계없이 크기와 방향이 같다면 모두 같은 벡터이다.
@@ -104,13 +110,14 @@ comments: true
 </br>
 </br>
 </br>
+
 (5)벡터의 덧셈과 뺄셈
 
 1)벡터의 덧셈
 
 \- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}&space;=&space;\overrightarrow{AB},&space;\overrightarrow{b}&space;=&space;\overrightarrow{BC}" title="\overrightarrow{a} = \overrightarrow{AB}, \overrightarrow{b} = \overrightarrow{BC}" />일 때,
 
-\: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BC}" title="\overrightarrow{BC}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AC}" title="\overrightarrow{AC}" />
+: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> + <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BC}" title="\overrightarrow{BC}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AC}" title="\overrightarrow{AC}" />
 
 \- 삼각형 법 : 벡터 1과 벡터 2의 종점과 시점을 일치시킨다(벡터 1의 시점과 벡터 2의 종점을 이은 벡터가 합).
 
@@ -121,15 +128,15 @@ comments: true
     - 교환법칙
     
     - 결합법칙
-</br>
-</br>
-2) 벡터의 뺄셈
-</br>
+
+
+2)벡터의 뺄셈
 
 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + (-<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />)
 
 </br>
 </br>
+
 (6) 벡터의 실수배
 
 \- 실수 k와 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />에 대하여
@@ -149,8 +156,10 @@ comments: true
     - 결합법칙
     
     - 분배법칙
+    
 <br/>    
-<br/>    
+<br/> 
+
 (7) 벡터의 평행
 
 \- 벡터의 평행
@@ -161,6 +170,10 @@ comments: true
 
     : 영벡터가 아닌 두 벡터에 대하여, a // b ⇔ b = ka (k는 0이 아닌 실수)
     
+<br/>
+
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
 <br/>
 
 ### 2.평면벡터의 성분과 내적
@@ -183,6 +196,8 @@ comments: true
 
     a₁, a₂가 벡터 a의 성분
     
+<br/>
+
 ※ 단위벡터 : x축, y축의 양의 방향과 같고, 크기가 1인 단위벡터
 
 <br/>
@@ -270,8 +285,13 @@ comments: true
   ※ 법선벡터 : 직선에 수직인, 영벡터가 아닌 벡터
 
 <br/>
+
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
 <br/>
 <br/>
+<br/>
+
 
 ---
 
@@ -387,6 +407,10 @@ comments: true
 
 <br/>
 
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
+<br/>
+
 ### 2.공간좌표
 
 
@@ -417,8 +441,13 @@ comments: true
    : <img src="https://latex.codecogs.com/svg.latex?\overline{OP}&space;=&space;\sqrt{&space;{x_1}^{2}&space;&plus;&space;{y_1}^{2}&space;&plus;&space;{z_1}^{2}}" title="\overline{OP} = \sqrt{ {x_1}^{2} + {y_1}^{2} + {z_1}^{2}}" />
 
 <br/>
+
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
 <br/>
 <br/>
+<br/>
+
 
 ---
 
@@ -470,6 +499,10 @@ comments: true
 
 <br/>
 
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
+<br/>
+
 ### 2.공간벡터의 내적
 
 \- 영벡터가 아닌 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃), <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (b₁, b₂, b₃)
@@ -492,6 +525,10 @@ comments: true
    - 수직 조건 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = 0
    - 평행 조건 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = ± |<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />|| <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />|
    
+<br/>
+
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
 <br/>
 
 ### 3.공간에서의 직선의 방정식
@@ -520,6 +557,10 @@ comments: true
 
 <br/>
 
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
+<br/>
+
 ### 4.평면의 방정식
 
 (1) 법선벡터 : 한 평면과 직각을 이루는 벡터
@@ -529,6 +570,10 @@ comments: true
 (2) 좌표공간에서 법선벡터가 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{n}" title="\overrightarrow{n}" /> = (a, b, c)인 x, y, z에 대한 평면의 방정식
   : ax + by + cz + d = 0
   
+<br/>
+
+[맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
+
 <br/>
 
 ### 5.점과 평면 사이의 거리
@@ -548,3 +593,7 @@ comments: true
  
  
  : <img src="https://latex.codecogs.com/svg.latex?\frac{\left&space;|&space;d&space;\right&space;|}{\sqrt{{a^{2}}&space;&plus;&space;{b^{2}}&space;&plus;&space;{c^{2}}}}" title="\frac{\left | d \right |}{\sqrt{{a^{2}} + {b^{2}} + {c^{2}}}}" />
+ 
+ <br/>
+ 
+ [맨 위](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#평면벡터)
