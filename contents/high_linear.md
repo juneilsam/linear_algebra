@@ -9,31 +9,31 @@ comments: true
 
 ## [평면벡터](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#%ED%8F%89%EB%A9%B4%EB%B2%A1%ED%84%B0-1)
 
-### [1.벡터의 연산](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#1%EB%B2%A1%ED%84%B0%EC%9D%98-%EC%97%B0%EC%82%B0-1)
+### [1.벡터의 연산](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#1벡터의-연산-1)
 
-### [2.평면벡터의 성분과 내적](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#2%ED%8F%89%EB%A9%B4%EB%B2%A1%ED%84%B0%EC%9D%98-%EC%84%B1%EB%B6%84%EA%B3%BC-%EB%82%B4%EC%A0%81-1)
-
----
-
-## 공간도형과 공간좌표
-
-### 1. 공간도형
-
-### 2. 공간좌표
+### [2.평면벡터의 성분과 내적](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#2평면벡터의-성분과-내적-1)
 
 ---
 
-## 공간벡터
+## [공간도형과 공간좌표](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#공간도형과-공간좌표-1)
 
-### 1. 공간벡터의 성분
+### [1.공간도형](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#1공간도형-1)
 
-### 2. 공간벡터의 내적
+### [2.공간좌표](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#2공간좌표-1)
 
-### 3. 공간에서의 직선의 방정식
+---
 
-### 4. 평면의 방정식
+## [공간벡터](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#공간벡터)
 
-### 5. 점과 평면 사이의 거리
+### [1.공간벡터의 성분](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#1공간벡터의-성분-1)
+
+### [2.공간벡터의 내적](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#2공간벡터의-내적-1)
+
+### [3.공간에서의 직선의 방정식](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#3공간에서의-직선의-방정식-1)
+
+### [4.평면의 방정식](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#4평면의-방정식-1)
+
+### [5.점과 평면 사이의 거리](https://github.com/juneilsam/munsong_math/blob/main/contents/high_linear.md#5점과-평면-사이의-거리-1)
 
 
 ---
@@ -465,9 +465,6 @@ comments: true
 
 ### 2.공간벡터의 내적
 
-  
-(1) 공간벡터의 내적
-
 \- 영벡터가 아닌 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃), <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (b₁, b₂, b₃)
 
   : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = a₁b₁ + a₂b₂ + a₃b₃
@@ -490,7 +487,7 @@ comments: true
    
 <br/>
 
-(2) 직선의 방정식
+### 3.공간에서의 직선의 방정식
 
 \- 점 A(x₁, y₁, z₁)를 지나고 방향벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{u}" title="\overrightarrow{u}" /> = (u₁, u₂, u₃)인 직선의 방정식
 
