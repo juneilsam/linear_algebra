@@ -385,13 +385,14 @@ comments: true
 
 (1) 공간에서 점의 좌표
 
-\- 좌표축 : 공간의 한 점에서 서로 직교하는 세 수직선을 그었을 때, 각각의 수직선(x축, y축, z축)
 
-\- 좌표평면 : 좌표축 2쌍에 의하여 결정되는 평면(xy평면, yz평면, zx평면)
+    \- 좌표축 : 공간의 한 점에서 서로 직교하는 세 수직선을 그었을 때, 각각의 수직선(x축, y축, z축)
 
-\- 공간좌표 : 공간에 있는 임의의 한 점에 대하여 각 좌표평면이 나머지 좌표축과 만나는 점으로 이루어진 세 실수의 순서쌍 (a, b, c)
+    \- 좌표평면 : 좌표축 2쌍에 의하여 결정되는 평면(xy평면, yz평면, zx평면)
 
-\- 좌표공간 : 공간에 있는 임의의 한 점의 좌표가 주어진 공간 (P(a, b, c))
+    \- 공간좌표 : 공간에 있는 임의의 한 점에 대하여 각 좌표평면이 나머지 좌표축과 만나는 점으로 이루어진 세 실수의 순서쌍 (a, b, c)
+
+    \- 좌표공간 : 공간에 있는 임의의 한 점의 좌표가 주어진 공간 (P(a, b, c))
 
 ※ 좌표평면은 나머지 한 좌표축 = 0에서 수직으로 만나므로, 해당 평면 위의 모든 점의 나머지 한 좌표축의 좌표는 0이다.
 
@@ -512,3 +513,34 @@ comments: true
 |x축에 평행(u₁, 0, 0)|y축에 평행(0, u₂, 0)|z축에 평행(0, 0, u₃)|
 |:----:|:----:|:----:|
 |y = y₁, z = z₁|x = x₁, z = z₁|x = x₁, y = y₁|
+
+<br/>
+
+### 4.평면의 방정식
+
+(1) 법선벡터 : 한 평면과 직각을 이루는 벡터
+
+<br/>
+
+(2) 좌표공간에서 법선벡터가 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{n}" title="\overrightarrow{n}" /> = (a, b, c)인 x, y, z에 대한 평면의 방정식
+  : ax + by + cz + d = 0
+  
+<br/>
+
+### 5.점과 평면 사이의 거리
+
+: 좌표공간의 한 점에서 해당 점을 지나지 않는 평면에 내린 수선의 발이 있을 때, 점과 수선의 발이 이루는 선분의 길이
+
+<br/>
+
+\- 점 P(<img src="https://latex.codecogs.com/svg.latex?x_{0},&space;y_{0},&space;z_{0}" title="x_{0}, y_{0}, z_{0}" />)과 평면 ax + by + cz + d = 0 사이의 거리
+
+
+ : <img src="https://latex.codecogs.com/svg.latex?\frac{\left&space;|&space;ax_{0}&space;&plus;&space;by_{0}&space;&plus;&space;cz_{0}&space;&plus;&space;d&space;\right&space;|}{\sqrt{{a^{2}}&space;&plus;&space;{b^{2}}&space;&plus;&space;{c^{2}}}}" title="\frac{\left | ax_{0} + by_{0} + cz_{0} + d \right |}{\sqrt{{a^{2}} + {b^{2}} + {c^{2}}}}" />
+ 
+ <br/>
+ 
+\- 원점과 평면 ax + by + cz + d = 0 사이의 거리
+ 
+ 
+ : <img src="https://latex.codecogs.com/svg.latex?\frac{\left&space;|&space;d&space;\right&space;|}{\sqrt{{a^{2}}&space;&plus;&space;{b^{2}}&space;&plus;&space;{c^{2}}}}" title="\frac{\left | d \right |}{\sqrt{{a^{2}} + {b^{2}} + {c^{2}}}}" />
