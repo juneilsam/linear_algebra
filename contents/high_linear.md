@@ -86,11 +86,11 @@ comments: true
 </br>
 (4) 서로 같은 벡터
 
-\- 위치에 관계없이 크기와 방향이 같다면 모두 같은 벡터이다.
+  \- 위치에 관계없이 크기와 방향이 같다면 모두 같은 벡터이다.
 
-\- 선분을 평행이동하여 같은 벡터와 겹칠 수 있다.
+  \- 선분을 평행이동하여 같은 벡터와 겹칠 수 있다.
 
-\- 방향이 반대인 벡터
+  \- 방향이 반대인 벡터
 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\tiny \overrightarrow{AB}" /> = -<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BA}" title="\overrightarrow{BA}" />
 
 : <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{a}&space;\right&space;|" title="\left | \overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\small&space;\left&space;|&space;\overrightarrow{-a}&space;\right&space;|" title="\small \left | \overrightarrow{-a} \right |" />
@@ -162,11 +162,11 @@ comments: true
 
 : 평면에서 한 정점 O를 시점으로 하는 벡터
 
-\- 일반적인 좌표평면에서 위치벡터의 시점 : 원점 O
+    - 일반적인 좌표평면에서 위치벡터의 시점 : 원점 O
 
-\- 두 위치벡터가 서로 같으면 : 두 위치벡터의 종점이 동일
+    - 두 위치벡터가 서로 같으면 : 두 위치벡터의 종점이 동일
 
-\- 두 위치벡터의 종점이 같으면 : 두 위치벡터는 서로 같은 벡터
+    - 두 위치벡터의 종점이 같으면 : 두 위치벡터는 서로 같은 벡터
 
 <br/>
 
@@ -200,11 +200,11 @@ comments: true
 
 \- 두 평면벡터 a = (a₁, a₂), b = (b₁, b₂)
 
-    1) a + b = (a₁ + b₁, a₂ + b₂)
+    - a + b = (a₁ + b₁, a₂ + b₂)
     
-    2) a - b = (a₁ - b₁, a₂ - b₂)
+    - a - b = (a₁ - b₁, a₂ - b₂)
 
-    3) ka = (ka₁, ka₂)
+    - ka = (ka₁, ka₂)
     
 <br/>
 
