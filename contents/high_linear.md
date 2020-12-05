@@ -17,6 +17,10 @@ comments: true
 
 ## 공간도형과 공간좌표
 
+### 1. 공간도형
+
+### 2. 공간좌표
+
 ---
 
 
@@ -32,6 +36,7 @@ comments: true
 
     - 크기
     - 방향
+    
 </br>
 (2) 벡터의 표시
 
@@ -137,9 +142,7 @@ comments: true
 \- 두 벡터가 평행할 조건
 
     : 영벡터가 아닌 두 벡터에 대하여, a // b ⇔ b = ka (k는 0이 아닌 실수)
-<br/>
-<br/>
-<br/>
+    
 <br/>
 
 ### 2.평면벡터의 성분과 내적
@@ -201,11 +204,10 @@ comments: true
    1) <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> = (b₁ - a₁, b₂ - a₂)
     
    2) <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{AB}&space;\right&space;|" title="\left | \overrightarrow{AB} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{(b_{1}&space;-&space;a_{1})^{2}&space;&plus;&space;(b_{2}&space;-&space;a_{2})^{2}}" title="\sqrt{(b_{1} - a_{1})^{2} + (b_{2} - a_{2})^{2}}" />
-   
+ 
+ <br/>
    
 (7) 평면벡터의 내적
-
-1) 평면벡터의 내적
 
 \- 벡터 a = (a₁, a₂), b = (b₁, b₂)
 
@@ -227,6 +229,64 @@ comments: true
     : 영벡터가 아닌 두 벡터 a, b에 대하여
     
     - 수직 조건 : a ˙ b = 0
-    
     - 평행 조건 : a ˙ b = ± |a||b|
    
+<br/>   
+
+(8) 방향벡터를 이용한 직선의 방정식
+
+\- 점 A(x₁, y₁)을 지나고 방향벡터가 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{u}" title="\overrightarrow{u}" /> = (u₁, u₂)인 직선의 방정식은
+
+  : <img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{y&space;-&space;y_{1}}{u_{2}}" title="\frac{x - x_{1}}{u_{1}} = \frac{y - y_{1}}{u_{2}}" /> (단, u₁u₂ ≠ 0)
+  
+  
+<br/>
+<br/>
+<br/>
+
+---
+
+## 공간도형과 공간좌표
+
+### 1.공간도형
+(1)직선, 평면의 위치 관계
+
+\- 평면의 결정조건
+
+  - 한 직선 위에 있지 않은 서로 다른 세 점
+  - 한 직선과 그 직선 위에 있지 않은 한 점
+  - 한 점에서 만나는 두 직선
+  - 평행한 두 직선
+
+
+    ※ 평면에서와 같이 공간에서도 서로 다른 두 점을 지나는 직선은 오직 하나.
+    ※ 공간에서 한 점에서 만나는 두 직선은 한 평면을 결정하고 평행한 두 직선도 한 평면을 결정한다.
+    
+    
+\- 공간에서 두 직선의 위치 관계
+
+  - 한 평면 위에 있다.
+  
+    : 만난다.
+    
+    : 평행하다.
+    
+  - 한 평면 위에 있지 않다.
+  
+    : 꼬인 위치에 있다.
+    
+    
+\- 직선과 평면의 위치 관계
+
+  - 만난다.
+    
+    : 포함된다(두 점 이상을 공유하면 직선 위의 모든 점은 평면 위에 있다).
+    
+    : 한 점에서 만난다.
+    
+  - 만나지 않는다.
+  
+    : 평행하다(직선과 평면이 공유점을 가지지 않는다, //).
+    
+    
+\- 평면과 평면의 위치 
