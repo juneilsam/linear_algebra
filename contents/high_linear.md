@@ -237,10 +237,10 @@ comments: true
 \- 평면벡터의 수직 조건과 평행 조건
 
 
-    : 영벡터가 아닌 두 벡터 a, b에 대하여
-    
-    - 수직 조건 : a ˙ b = 0
-    - 평행 조건 : a ˙ b = ± |a||b|
+\- 영벡터가 아닌 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />, <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />에 대하여
+  
+   - 수직 조건 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = 0
+   - 평행 조건 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = ± |<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />|| <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />|
    
 <br/>   
 
@@ -431,7 +431,8 @@ comments: true
 : a₁, a₂, a₃가 벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />의 성분.
    
     a₁ = x성분    a₂ = y성분    a₃ = z성분
-    
+
+<br/>
 
 ※ 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃), <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (b₁, b₂, b₃)에 대하여
 
@@ -439,7 +440,7 @@ comments: true
   
   - <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{a}&space;\right&space;|" title="\left | \overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{{a_{1}}^{2}&space;&plus;&space;{a_{2}}^{2}&space;&plus;&space;{a_{3}}^{2}}" title="\sqrt{{a_{1}}^{2} + {a_{2}}^{2} + {a_{3}}^{2}}" />
   
-  <br/>
+<br/>
   
 (3) 공간벡터의 성분에 의한 연산
   
@@ -451,10 +452,45 @@ comments: true
 
 - k<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (ka₁, ka₂, ka₃) (단, k는 실수)
 
+<br/>
 
 ※ 좌표공간의 두 점 A(a₁, a₂, a₃), B(b₁, b₂, b₃)에 대하여
 
   - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> = (b₁ - a₁, b₂ - a₂ , b₃ - a₃)
   
   - <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{AB}&space;\right&space;|" title="\left | \overrightarrow{AB} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{({b_{1}&space;-&space;a_{1}})^{2}&space;&plus;&space;({b_{2}&space;-&space;a_{2}})^{2}&space;&plus;&space;({b_{3}&space;-&space;a_{3}})^{2}}" title="\sqrt{({b_{1} - a_{1}})^{2} + ({b_{2} - a_{2}})^{2} + ({b_{3} - a_{3}})^{2}}" />
+
+<br/>
+
+### 2.공간벡터의 내적
+
   
+(1) 공간벡터의 내적
+
+\- 영벡터가 아닌 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = (a₁, a₂, a₃), <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = (b₁, b₂, b₃)
+
+  : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = a₁b₁ + a₂b₂ + a₃b₃
+  
+  
+  : 두 공간벡터 둘 중 하나가 영벡터일 경우에는 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = 0으로 정한다.
+  
+\- 내적의 연산법칙
+
+    - 교환법칙
+    
+    - 결합법칙
+    
+    - 분배법칙
+    
+\- 영벡터가 아닌 두 공간벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />, <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />에 대하여
+  
+   - 수직 조건 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = 0
+   - 평행 조건 : <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> · <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = ± |<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />|| <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />|
+   
+<br/>
+
+(2) 직선의 방정식
+
+\- 점 A(x₁, y₁, z₁)을 지나고 방향벡터 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{u}" title="\overrightarrow{u}" /> = (u₁, u₂, u₃)인 직선의 방정식
+
+  : <img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{y&space;-&space;y_{1}}{u_{2}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{x - x_{1}}{u_{1}} = \frac{y - y_{1}}{u_{2}} = \frac{z - z_{1}}{u_{3}}" /> (단, u₁u₂u₃ ≠ 0)
