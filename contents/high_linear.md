@@ -47,7 +47,7 @@ comments: true
 (3) 벡터의 크기
 
 
-\- 선분 AB의 길이
+: 선분 AB의 길이
 
 
 \- <img src="https://latex.codecogs.com/svg.latex?\tiny&space;{\left&space;|\overrightarrow{AB}&space;\right&space;|}" title="\tiny {\left |\overrightarrow{AB} \right |}" /> 또는 <img src="https://latex.codecogs.com/svg.latex?{\left&space;|\overrightarrow{a}&space;\right&space;|}" title="{\left |\overrightarrow{a} \right |}" />
@@ -137,13 +137,50 @@ comments: true
 \- 두 벡터가 평행할 조건
 
     : 영벡터가 아닌 두 벡터에 대하여, a // b ⇔ b = ka (k는 0이 아닌 실수)
-    
+<br/>
+<br/>
+<br/>
+<br/>
 ### 2.평면벡터의 성분과 내적
 
 (1) 위치벡터
 
-\- 평면에서 한 정점 O를 시점으로 하는 벡터를 위치벡터라고 한다.
+: 평면에서 한 정점 O를 시점으로 하는 벡터
 
-\- 일반적으로 좌표평면에서 위치벡터의 시점은 원점 O로 정한다.
+\- 일반적인 좌표평면에서 위치벡터의 시점 : 원점 O
 
-\- 두 위치벡터가 서로 같으면 두 위치벡터의 종점이 같고, 두 위치벡터의 종점이 같으면 두 위치벡터는 서로 같은 벡터이다.
+\- 두 위치벡터가 서로 같으면 : 두 위치벡터의 종점이 동일
+
+\- 두 위치벡터의 종점이 같으면 : 두 위치벡터는 서로 같은 벡터
+
+<br/>
+
+(2) 평면벡터의 성분
+
+: 위치벡터 a의 종점의 좌표가 (a₁, a₂)일 때,
+
+    a₁, a₂가 벡터 a의 성분
+    
+※ 단위벡터 : x축, y축의 양의 방향과 같고, 크기가 1인 단위벡터
+
+<br/>
+
+(3) 두 평면벡터가 서로 같을 조건
+
+\- 두 점 a = (a₁, a₂), b = (b₁, b₂)에 대하여, 각 위치벡터가 서로 같은 벡터가 되기 위해서는 그 종점의 좌표가 같아야 한다.
+
+    a = b ⇔ a₁ = b₁, a₂ = b₂
+    
+<br/>
+
+(4) 평면벡터의 크기
+
+\- 벡터a = (a₁, a₂)일 때, 
+
+: <img src="https://latex.codecogs.com/svg.latex?\left&space;|\overrightarrow{a}&space;\right&space;|" title="\left |\overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\sqrt{a_{1}^{2}&space;&plus;&space;a_{2}^{2}}" title="\sqrt{a_{1}^{2} + a_{2}^{2}}" />
+
+<br/>
+
+(5) 평면벡터의 성분에 의한 연산
+
+\-
