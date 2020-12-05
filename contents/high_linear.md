@@ -102,7 +102,48 @@ comments: true
 </br>
 2) 벡터의 뺄셈
 </br>
-\- <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + (-<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />)
+
+: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> - <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> + (-<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{b}" title="\overrightarrow{b}" />)
+
 </br>
 </br>
-3) 벡터의 
+(6) 벡터의 실수배
+
+\- 실수 k와 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />에 대하여
+
+: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> ≠ <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{0}" title="\overrightarrow{0}" />일 때,
+
+  ① k > 0이면, k<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />는 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />와 같은 방향이고 크기는 k|<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />|인 벡터
+  
+  ② k = 0이면, k<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{0}" title="\overrightarrow{0}" />
+  
+  ③ k < 0이면, k<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />는 <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />와 반대 방향이고 크기는 |k||<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" />|인 벡터
+  
+: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{0}" title="\overrightarrow{0}" />일 때, k<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /> = <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{0}" title="\overrightarrow{0}" />
+
+\- 벡터의 실수배에 대한 연산법칙
+
+    : 결합법칙
+    
+    : 분배법칙
+<br/>    
+<br/>    
+(7) 벡터의 평행
+
+\- 벡터의 평행
+
+    : 영벡터가 아닌 두 벡터의 방향이 같거나 반대일 때, 두 벡터가 서로 평행하다고 하며, 이것을 기호로 //와 같이 나타낸다.
+    
+\- 두 벡터가 평행할 조건
+
+    : 영벡터가 아닌 두 벡터에 대하여, a // b ⇔ b = ka (k는 0이 아닌 실수)
+    
+### 2.평면벡터의 성분과 내적
+
+(1) 위치벡터
+
+\- 평면에서 한 정점 O를 시점으로 하는 벡터를 위치벡터라고 한다.
+
+\- 일반적으로 좌표평면에서 위치벡터의 시점은 원점 O로 정한다.
+
+\- 두 위치벡터가 서로 같으면 두 위치벡터의 종점이 같고, 두 위치벡터의 종점이 같으면 두 위치벡터는 서로 같은 벡터이다.
