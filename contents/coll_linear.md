@@ -1,3 +1,6 @@
+use_math: true 
+comments: true
+
 출처 : 
 
 
@@ -109,6 +112,15 @@
     
  * n차원 벡터(n-dimensional vector)
  
-    n개의 실수의 순서조
+    : n개의 실수의 순서조
     
-    X = (x₁, x₂, ..., 
+    : X = (<img src="https://latex.codecogs.com/gif.latex?x_{1}" title="x_{1}" />, <img src="https://latex.codecogs.com/gif.latex?x_{2}" title="x_{2}" />, ..., <img src="https://latex.codecogs.com/gif.latex?x_{n}" title="x_{n}" />), = <img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;x_{1}\\&space;x_{2}\\&space;\vdots&space;\\&space;x_{n}&space;\end{bmatrix}" title="\begin{bmatrix} x_{1}\\ x_{2}\\ \vdots \\ x_{n} \end{bmatrix}" />
+    
+    : 이때 실수 <img src="https://latex.codecogs.com/gif.latex?x_{1}" title="x_{1}" />, <img src="https://latex.codecogs.com/gif.latex?x_{2}" title="x_{2}" />, ..., <img src="https://latex.codecogs.com/gif.latex?x_{n}" title="x_{n}" />을 x의 성분이라 한다.
+
+
+* 벡터의 상등
+
+    : x = <img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;x_{1}\\&space;x_{2}\\&space;\vdots&space;\\&space;x_{n}&space;\end{bmatrix}" title="\begin{bmatrix} x_{1}\\ x_{2}\\ \vdots \\ x_{n} \end{bmatrix}" />, y = <img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;y_{1}\\&space;y_{2}\\&space;\vdots&space;\\&space;y_{n}&space;\end{bmatrix}" title="\begin{bmatrix} y_{1}\\ y_{2}\\ \vdots \\ y_{n} \end{bmatrix}" />
+    
+    : <img src="https://latex.codecogs.com/gif.latex?x_{i}&space;=&space;y_{i}" title="x_{i} = y_{i}" /> (i = 1, 2, ..., n)이면 x = y
