@@ -61,7 +61,7 @@ comments: true
 
 \- 점 A에서 점 B로 향하는 화살표를 사용하여 크기와 방향을 나타낸다.
 
-\- <a href="https://www.codecogs.com/eqnedit.php?latex=\overrightarrow{AB}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /></a> 또는 <a href="https://www.codecogs.com/eqnedit.php?latex=\overrightarrow{a}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\overrightarrow{a}" title="\overrightarrow{a}" /></a>
+\- <img src="https://latex.codecogs.com/gif.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> 또는 <img src="https://latex.codecogs.com/gif.latex?\overrightarrow{a}" title="\overrightarrow{a}" />
 
     - 점 A : 벡터 AB의 시점
 
@@ -75,7 +75,7 @@ comments: true
 : 선분 AB의 길이
 
 
-\- <img src="https://latex.codecogs.com/svg.latex?\tiny&space;{\left&space;|\overrightarrow{AB}&space;\right&space;|}" title="\tiny {\left |\overrightarrow{AB} \right |}" /> 또는 <img src="https://latex.codecogs.com/svg.latex?{\left&space;|\overrightarrow{a}&space;\right&space;|}" title="{\left |\overrightarrow{a} \right |}" />
+\- <img src="https://latex.codecogs.com/svg.latex?\tiny&space;{\left&space;|\overrightarrow{AB}&space;\right&space;|}" title="\tiny {\left |\overrightarrow{AB} \right |}" /> 또는 <img src="https://latex.codecogs.com/gif.latex?\left&space;|\overrightarrow{a}&space;\right&space;|" title="\left |\overrightarrow{a} \right |" />
 
 
 \- 단위 벡터 : 크기가 1인 벡터
@@ -104,7 +104,7 @@ comments: true
   \- 선분을 평행이동하여 같은 벡터와 겹칠 수 있다.
 
   \- 방향이 반대인 벡터
-: <img src="https://latex.codecogs.com/svg.latex?\overrightarrow{AB}" title="\tiny \overrightarrow{AB}" /> = -<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BA}" title="\overrightarrow{BA}" />
+: <img src="https://latex.codecogs.com/gif.latex?\overrightarrow{AB}" title="\overrightarrow{AB}" /> = -<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{BA}" title="\overrightarrow{BA}" />
 
 : <img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;\overrightarrow{a}&space;\right&space;|" title="\left | \overrightarrow{a} \right |" /> = <img src="https://latex.codecogs.com/svg.latex?\small&space;\left&space;|&space;\overrightarrow{-a}&space;\right&space;|" title="\small \left | \overrightarrow{-a} \right |" />
 </br>
@@ -545,7 +545,7 @@ comments: true
 
 |xy평면에 평행(u₁, u₂, 0)|yz평면에 평행(0, u₂, u₃)|zx평면에 평행(u₁, 0, u₃)|
 |:----:|:----:|:----:|
-|<img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{y&space;-&space;y_{1}}{u_{2}}" title="\frac{x - x_{1}}{u_{1}} = \frac{y - y_{1}}{u_{2}}" />, z = z₁|<img src="https://latex.codecogs.com/svg.latex?\frac{y&space;-&space;y_{1}}{u_{2}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{y - y_{1}}{u_{2}} = \frac{z - z_{1}}{u_{3}}" />, x = x₁|<img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{x - x_{1}}{u_{1}} = \frac{z - z_{1}}{u_{3}}" />, y = y₁|
+|<img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{y&space;-&space;y_{1}}{u_{2}}" title="\frac{x - x_{1}}{u_{1}} = \frac{y - y_{1}}{u_{2}}" />, z = z₁|<img src="https://latex.codecogs.com/gif.latex?\frac{y&space;-&space;y_{1}}{u_{2}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{y - y_{1}}{u_{2}} = \frac{z - z_{1}}{u_{3}}" />, x = x₁|<img src="https://latex.codecogs.com/svg.latex?\frac{x&space;-&space;x_{1}}{u_{1}}&space;=&space;\frac{z&space;-&space;z_{1}}{u_{3}}" title="\frac{x - x_{1}}{u_{1}} = \frac{z - z_{1}}{u_{3}}" />, y = y₁|
 
 <br/>
 
